@@ -16,7 +16,7 @@ int area=a*b;
 System.out.println("area is "+area);
         int perimeter= 2*a+2*b;
         System.out.println("perimeter is "+perimeter);
-        System.out.println("perimeter is "+perimeter);
+    
 
 
     } 
