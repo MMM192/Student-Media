@@ -1,1 +1,1 @@
-# java7_practice
+# Student_media
